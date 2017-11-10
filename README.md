@@ -1,1 +1,0 @@
-# USD_tests_protractor
